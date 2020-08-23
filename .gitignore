@@ -1,0 +1,8 @@
+
+source data/us county shapefile/tl_2019_us_county.shx
+source data/us county shapefile/tl_2019_us_county.shp.iso.xml
+source data/us county shapefile/tl_2019_us_county.shp.ea.iso.xml
+source data/us county shapefile/tl_2019_us_county.shp
+source data/us county shapefile/tl_2019_us_county.prj
+source data/us county shapefile/tl_2019_us_county.dbf
+source data/us county shapefile/tl_2019_us_county.cpg
